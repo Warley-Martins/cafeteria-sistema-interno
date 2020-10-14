@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/cafeteria-sistema-interno/cafeteria-sistema-interno/obj
+/cafeteria-sistema-interno/dll-cafeteria-sistema-interno/obj
+/cafeteria-sistema-interno/.vs/cafeteria-sistema-interno/v16

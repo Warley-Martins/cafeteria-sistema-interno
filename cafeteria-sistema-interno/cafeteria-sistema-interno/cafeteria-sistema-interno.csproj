@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>cafeteria_sistema_interno</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\dll-cafeteria-sistema-interno\dll-cafeteria-sistema-interno.csproj" />
+  </ItemGroup>
+
+</Project>
